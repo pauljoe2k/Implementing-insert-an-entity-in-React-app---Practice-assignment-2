@@ -25,5 +25,10 @@
     "eslint-plugin-react-refresh": "^0.4.18",
     "globals": "^15.14.0",
     "vite": "^6.0.7"
-  }
+  },
+  "description": "Add functionality to navigate to an \"Add Movie\" form. This task focuses exclusively on frontend development using **React** and **Vite**.",
+  "main": "eslint.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }

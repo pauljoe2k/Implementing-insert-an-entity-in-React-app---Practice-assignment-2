@@ -29,3 +29,11 @@
   flex-wrap: wrap;
   gap: 16px;
 }
+
+.addBtn {
+  padding: 0.75rem;
+  font-size: 1.1rem;
+  border-radius: 10px;
+  background-color: #0a5cd6;
+  color: white;
+}
